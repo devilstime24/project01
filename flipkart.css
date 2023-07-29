@@ -1,0 +1,50 @@
+
+input{
+    font-size: 20px;
+    border: solid ;
+    border-radius: 10px;
+    height: 40px;
+    width: 750px;
+    
+  
+}
+#bb{
+    height: 60px;
+    width: 250px;
+   
+   
+}
+#aaa{
+    height: 100px;
+    width: 700px;
+    float: right;
+}
+#cat{
+    height: 150px;
+    width: 2000px;
+}
+#air{
+    height: 300px;
+    width: 1900px;
+    padding-left: 50px;
+}
+#ttt{
+    height: 400px;
+    width: 1900px;
+    padding-left: 50px;
+}
+#ss{
+    height: 400px;
+    width: 1900px;
+    padding-left: 50px;
+}
+#end{
+    height: 900px;
+    width: 700px;
+    padding-left: 50px;
+}
+#eee{
+    height: 875px;
+    width: 1200px;
+    position: absolute;
+}
